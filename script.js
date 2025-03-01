@@ -1,1 +1,2 @@
 console.log("OLA MUNDO, SEJA BEM VINDO!!!")
+console.log("TESTE SEGUNDA LINDA DE TEXTO")
