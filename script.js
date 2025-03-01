@@ -1,2 +1,3 @@
 console.log("OLA MUNDO, SEJA BEM VINDO!!!")
 console.log("TESTE SEGUNDA LINDA DE TEXTO")
+console.log("TESTE TERCEIRA LINHA DO MEU ARQUIVO")
